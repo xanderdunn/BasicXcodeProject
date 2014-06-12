@@ -1,0 +1,6 @@
+Pods
+Podfile.lock
+xcuserdata
+*.xccheckout
+Crashlytics.framework
+Acknowledgements.plist
